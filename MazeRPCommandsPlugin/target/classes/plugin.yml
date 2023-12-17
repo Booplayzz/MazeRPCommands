@@ -1,0 +1,10 @@
+name: SurrenderPlugin
+version: '1.0-SNAPSHOT'
+main: me.booplayzz.surrenderplugin.SurrenderPlugin
+api-version: '1.19'
+commands:
+  surrender:
+    usage: /<command>
+  pack:
+    usage: /<command>
+    aliases: [texturepack]
